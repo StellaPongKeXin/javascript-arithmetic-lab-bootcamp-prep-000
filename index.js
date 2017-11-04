@@ -22,7 +22,7 @@ return number
 }
 
 function makeInt('n',10){
-  number=n 
+  number=n
   parseInt('10')
   return number
 }
