@@ -24,17 +24,17 @@ return number
 function makeInt('n',10){
   number=n
   parseInt('10')
-  return number
+console.log(number)
 }
 function preserveDecimal(n){
 parseInt('nonsense')
 number=nonsense
-return number
+console.log(number)
 }
 
 function multiply(a,b){
   number=a*b
-  return number
+console.log(number)
 }
 
 
