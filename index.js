@@ -2,6 +2,42 @@ function add(a,b){
   number=a+b
   return number
 }
+
+function subtract(a,b){
+  number=a-b
+  return number
+}
+function divide(a,b){
+  number=a/b
+  return number
+}
+
+function inc(n){
+number += n
+return number
+}
+function dec(n){
+number -= n
+return number
+}
+
+function makeInt('n',10){
+  number=n 
+  parseInt('10')
+  return number
+}
+function preserveDecimal(n){
+parseInt('nonsense')
+number=nonsense
+return number
+}
+
+function multiply(a,b){
+  number=a*b
+  return number
+}
+
+
 var number = 10
 
 function add5() {
