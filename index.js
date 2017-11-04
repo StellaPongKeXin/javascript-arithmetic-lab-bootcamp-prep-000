@@ -21,8 +21,8 @@ number -= n
 return number
 }
 
-function makeInt('n',10){
-  number=n
+function makeInt('10',10){
+  number=10
   parseInt('10')
 console.log(number)
 }
